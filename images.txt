@@ -5,3 +5,4 @@
 --platform=linux/amd64 zabbix/zabbix-snmptraps
 --platform=linux/amd64 zabbix/zabbix-server-pgsql
 --platform=linux/amd64 zabbix/zabbix-proxy-mysql
+--platform=linux/amd64 postgres:14.12
