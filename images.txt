@@ -5,6 +5,6 @@
 --platform=linux/amd64 zabbix/zabbix-snmptraps:6.4-centos-latest
 --platform=linux/amd64 zabbix/zabbix-server-pgsql:6.4-centos-latest
 --platform=linux/amd64 zabbix/zabbix-proxy-mysql:6.4-centos-latest
---platform=linux/amd64 zabbix/zabbix-build-pgsql:6.4.17-centos
+--platform=linux/amd64 zabbix/zabbix-build-pgsql:6.4-centos-latest
 --platform=linux/amd64 postgres:14.12
 --platform=linux/amd64 busybox:latest
