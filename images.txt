@@ -11,3 +11,4 @@
 --platform=linux/amd64 zabbix/zabbix-snmptraps:6.4-centos-latest
 --platform=linux/amd64 postgres:14.12
 --platform=linux/amd64 busybox:latest
+--platform=linux/amd64 andrius/asterisk:15.6.2-alpine_3.8
